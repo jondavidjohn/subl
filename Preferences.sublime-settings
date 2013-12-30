@@ -1,6 +1,7 @@
 {
 	"color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
     "overlay_scroll_bars": "enabled",
+    "close_windows_when_empty": false,
 	"drag_text": false,
 	"folder_exclude_patterns":
 	[
