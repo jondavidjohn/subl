@@ -20,4 +20,8 @@
 		"context":[ { "key": "setting.command_mode", "operand": true }]},
 	{ "keys": [" ", "k"], "command": "move_caret_back", "args": {"nlines": 20},
 		"context":[ { "key": "setting.command_mode", "operand": true }]},
+
+	// Go to search result from results buffer
+	{ "keys": ["g", "o"], "command": "next_result",
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
 ]
