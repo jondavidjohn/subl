@@ -1,0 +1,23 @@
+[
+	// Pane Management
+	{ "keys": [" ", "h"], "command": "focus_neighboring_group", "args": {"forward": false},
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+	{ "keys": [" ", "l"], "command": "focus_neighboring_group",
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+	{ "keys": [" ", "H"], "command": "move_to_neighboring_group", "args": {"forward": false},
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+	{ "keys": [" ", "L"], "command": "move_to_neighboring_group",
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+
+	// Sidebar
+	{ "keys": [" ", "B"], "command": "toggle_side_bar",
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+	{ "keys": [" ", "b"], "command": "focus_side_bar",
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+
+	// Navigation
+	{ "keys": [" ", "j"], "command": "move_caret_forward", "args": {"nlines": 20},
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+	{ "keys": [" ", "k"], "command": "move_caret_back", "args": {"nlines": 20},
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+]
