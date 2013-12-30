@@ -1,0 +1,22 @@
+{
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"Better CoffeeScript",
+		"GitGutter",
+		"Grunt",
+		"MarkdownEditing",
+		"SublimeGit",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"SublimeLinter-ruby",
+		"SublimeLinter-scss-lint",
+		"Syntax Highlighting for Sass",
+		"Theme - Spacegray",
+		"TrailingSpaces",
+		"Vintageous"
+	]
+}

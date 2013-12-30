@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
+	"drag_text": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"wp",
+		"vendor",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 15,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"remember_open_files": false,
+	"show_minimap": false,
+	"theme": "Spacegray.sublime-theme",
+	"word_wrap": false
+}
