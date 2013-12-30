@@ -1,5 +1,6 @@
 {
 	"color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
+    "overlay_scroll_bars": "enabled",
 	"drag_text": false,
 	"folder_exclude_patterns":
 	[
@@ -24,5 +25,6 @@
 	"remember_open_files": false,
 	"show_minimap": false,
 	"theme": "Spacegray.sublime-theme",
-	"word_wrap": false
+	"word_wrap": false,
+	"vintageous_use_sys_clipboard": true
 }
