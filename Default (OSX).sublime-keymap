@@ -16,9 +16,9 @@
 		"context":[ { "key": "setting.command_mode", "operand": true }]},
 
 	// Navigation
-	{ "keys": [" ", "j"], "command": "move_caret_forward", "args": {"nlines": 20},
+	{ "keys": ["down"], "command": "move_caret_forward", "args": {"nlines": 20},
 		"context":[ { "key": "setting.command_mode", "operand": true }]},
-	{ "keys": [" ", "k"], "command": "move_caret_back", "args": {"nlines": 20},
+	{ "keys": ["up"], "command": "move_caret_back", "args": {"nlines": 20},
 		"context":[ { "key": "setting.command_mode", "operand": true }]},
 
 	// Indentation
