@@ -1,7 +1,6 @@
 {
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/base16-tomorrow.dark (SL).tmTheme",
-    "overlay_scroll_bars": "enabled",
-    "close_windows_when_empty": false,
 	"drag_text": false,
 	"folder_exclude_patterns":
 	[
@@ -19,13 +18,14 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Markdown"
 	],
 	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
 	"show_minimap": false,
 	"theme": "Spacegray.sublime-theme",
-	"word_wrap": false,
-	"vintageous_use_sys_clipboard": true
+	"vintageous_use_sys_clipboard": true,
+	"word_wrap": false
 }
