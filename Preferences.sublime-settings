@@ -27,5 +27,6 @@
 	"show_minimap": false,
 	"theme": "Spacegray.sublime-theme",
 	"vintageous_use_sys_clipboard": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"rulers": [80, 120]
 }
