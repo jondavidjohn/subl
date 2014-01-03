@@ -30,4 +30,12 @@
 	// Go to search result from results buffer
 	{ "keys": ["g", "o"], "command": "next_result",
 		"context":[ { "key": "setting.command_mode", "operand": true }]},
+
+	// Member Navigation
+	{ "keys": [" ", "m"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"},
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+	{ "keys": [" ", "M"], "command": "goto_symbol_in_project",
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
+	{ "keys": ["g", "d"], "command": "goto_definition",
+		"context":[ { "key": "setting.command_mode", "operand": true }]},
 ]
