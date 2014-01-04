@@ -24,9 +24,13 @@
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
+	"rulers":
+	[
+		80,
+		120
+	],
 	"show_minimap": false,
 	"theme": "Spacegray.sublime-theme",
 	"vintageous_use_sys_clipboard": true,
-	"word_wrap": false,
-	"rulers": [80, 120]
+	"word_wrap": false
 }
