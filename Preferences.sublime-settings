@@ -20,9 +20,9 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage",
+		"Markdown",
 		"SublimeLinter-jshint",
-		"Markdown"
+		"Vintage"
 	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
