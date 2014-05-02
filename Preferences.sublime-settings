@@ -21,8 +21,17 @@
 	"ignored_packages":
 	[
 		"SublimeLinter-jshint",
+		"Handlebars",
+		"Jade",
+		"SublimeLinter",
 		"Vintage",
-		"Markdown"
+		"GitGutter",
+		"Markdown",
+		"MarkdownEditing",
+		"Vintageous",
+		"TrailingSpaces",
+		"Gist",
+		"Better CoffeeScript"
 	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
