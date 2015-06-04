@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Base16 Color Schemes",
@@ -13,6 +16,7 @@
 		"LESS",
 		"MarkdownEditing",
 		"Nodejs",
+		"Package Control",
 		"SublimeGit",
 		"SublimeLinter",
 		"SublimeLinter-coffee",

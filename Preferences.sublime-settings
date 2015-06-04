@@ -20,18 +20,18 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Markdown",
-		"SublimeLinter-jshint",
-		"Vintageous",
-		"Handlebars",
-		"Better CoffeeScript",
-		"Vintage",
-		"SublimeLinter",
-		"MarkdownEditing",
-		"GitGutter",
 		"Gist",
+		"Vintage",
+		"Better CoffeeScript",
+		"Vintageous",
 		"Jade",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"SublimeLinter",
+		"GitGutter",
+		"Markdown",
+		"Handlebars",
+		"SublimeLinter-jshint",
+		"MarkdownEditing"
 	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
